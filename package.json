@@ -1,0 +1,11 @@
+{
+ "version": "1.0",
+ "name": "myproject",
+ "devDependencies": {
+     "@angular/animation": "4.0.0-beta.8",
+     "jquery-1.8": "",
+     "expressjs": "",
+     "reactjs": "",
+     "coffee-script-es6": ""
+ }
+}
